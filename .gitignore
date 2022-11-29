@@ -4,8 +4,11 @@
 /saves
 
 # secure files
+/local
 /config/splash.properties
 /options.txt
 
 # log files
 /logs
+/crafttweaker.log
+/dropt.log
