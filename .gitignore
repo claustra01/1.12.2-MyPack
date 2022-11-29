@@ -1,0 +1,11 @@
+# copyrighted files
+/mods
+/resourcepacks
+/saves
+
+# secure files
+/config/splash.properties
+/options.txt
+
+# log files
+/logs
