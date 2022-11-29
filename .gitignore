@@ -5,8 +5,13 @@
 
 # secure files
 /local
+/config/jei/worldSettings.cfg
 /config/splash.properties
+/XaeroWayPoints
+/XaeroWorldMap
 /options.txt
+/usercache.json
+/usernamecache.json
 
 # log files
 /logs
