@@ -23,6 +23,8 @@
     "oreGold": {
       "slagColor": "fcee4b",
       "langKey": [
+        "dcs_climate:item.dcs_oreitem_white_2",
+        "dcs_climate:tile.dcs_ore_stone_11",
         "minecraft:tile.oreGold"
       ],
       "output": [
@@ -40,6 +42,9 @@
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
+        "dcs_climate:item.dcs_oreitem_white_1",
+        "dcs_climate:tile.dcs_ore_stone_1",
+        "dcs_climate:tile.dcs_ore_stone_4",
         "minecraft:tile.oreIron"
       ],
       "output": [
