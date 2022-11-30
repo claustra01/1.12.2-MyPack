@@ -24,8 +24,5 @@ print("========== Start loading heatandclimate.zs ==========");
     jeiutils.hideMetaItem(true, <dcs_climate:dcs_oreitem>, 0, 14);
     jeiutils.hideMetaItem(true, <dcs_climate:dcs_ingot>, 0, 18);
     jeiutils.hideMetaItem(true, <dcs_climate:dcs_oredust>, 0, 15);
-    jeiutils.hideMetaItem(true, <dcs_climate:dcs_ore_metal_new>, 0, 7);
-    jeiutils.hideMetaItem(true, <dcs_climate:dcs_ore_metal_alloy>, 0, 9);
-    jeiutils.hideMetaItem(true, <dcs_climate:dcs_ore_heatingmetal>, 0, 14);
 
 print("========== Complete loading heatandclimate.zs ==========");

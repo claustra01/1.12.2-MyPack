@@ -14,6 +14,9 @@ print("========== Start loading minecraft.zs ==========");
     jeiutils.hideCategory("minecraft.brewing");
     jeiutils.hideCategory("minecraft.anvil");
 
+    //---Tools---
+    jeiutils.hideItem(false, <forge:bucketfilled:*>);
+
     //---Potions---
     //jeiutils.hideItem(true, <minecraft:potion:*>);
     jeiutils.hideItem(true, <minecraft:splash_potion:*>);
