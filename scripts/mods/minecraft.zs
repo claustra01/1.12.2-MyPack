@@ -15,9 +15,9 @@ print("========== Start loading minecraft.zs ==========");
     jeiutils.hideCategory("minecraft.anvil");
 
     //---Potions---
-    //jeiutils.hideItem(true, <minecraft:potion:*>, 0, 14);
-    jeiutils.hideItem(true, <minecraft:splash_potion:*>, 0, 14);
-    jeiutils.hideItem(true, <minecraft:lingering_potion:*>, 0, 14);
-    jeiutils.hideItem(true, <minecraft:tipped_arrow:*>, 0, 14);
+    //jeiutils.hideItem(true, <minecraft:potion:*>);
+    jeiutils.hideItem(true, <minecraft:splash_potion:*>);
+    jeiutils.hideItem(true, <minecraft:lingering_potion:*>);
+    jeiutils.hideItem(true, <minecraft:tipped_arrow:*>);
 
 print("========== Complete loading minecraft.zs ==========");
